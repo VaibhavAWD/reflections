@@ -4,3 +4,6 @@ directory in order to create a new git repository that will track the files.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area allows us to commit bunch of files chosen to be commited which we think to be commited. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+Before commiting the changes we can add the file to the staging area and compare it with the latest commit during which we can make sure the changes we have to make and then perform commit on it.
