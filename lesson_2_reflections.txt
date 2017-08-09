@@ -10,3 +10,6 @@ Before commiting the changes we can add the file to the staging area and compare
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 If we are not sure about the changes that we want to make to the project and use it as an experimental version of the project then creating a new branch separately from the master branch would preserve our original project as is and help us make any changes we want to make in our experimental branch as it is now separate from master branch.
+
+How do the diagrams help you visualize the branch structure?
+They help us understand the flow of several branches in a better way.
