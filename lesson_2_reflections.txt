@@ -16,3 +16,6 @@ They help us understand the flow of several branches in a better way.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The code in the file gets merged and the commit ids of the branch that we are merging get merged into the branch that we are merging it. Then the commit ids of the branch that we are merging are now reachable from the merged branch say the master branch. We represent the branches in a diagram so that we understand the reachability of the commits as well as the parents of each commit as well as the branches in a better way.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging simply merges the branches as it knowns what changes have to be kept or discarded clearly. Whereas, manual merging allows the user to resolve the conflicts in the merge and then commit it to accomplish the merge.
