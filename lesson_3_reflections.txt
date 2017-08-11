@@ -3,3 +3,9 @@ If I wish to make the project publicly available then I would like to use remote
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because at some stage of development of the project other contributers might have added some commits to the branch and locally we might not want to pull the changes into the same branch but in other as an experiment or something else.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks - Cloning the repository of another user on GitHub itself. Use - In order to contribute to the work in the project.
+Clones - Cloning a repository from GitHub to your local machine. Use - To study and alter the files and push to remote if wish to be seen by everyone.
+Branches - Branches are created from the parent say master branch to fix a bug or 
+experiment with the project for another version parallely along with the master branch. Use - If I want to work on a new feature in the project without disturbing the main code. And then merge into master if wish to.
