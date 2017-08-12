@@ -9,3 +9,6 @@ Forks - Cloning the repository of another user on GitHub itself. Use - In order 
 Clones - Cloning a repository from GitHub to your local machine. Use - To study and alter the files and push to remote if wish to be seen by everyone.
 Branches - Branches are created from the parent say master branch to fix a bug or 
 experiment with the project for another version parallely along with the master branch. Use - If I want to work on a new feature in the project without disturbing the main code. And then merge into master if wish to.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It can help fix the merge conflicts by comparing the file changes made by different persons or the person himself.
