@@ -12,3 +12,6 @@ experiment with the project for another version parallely along with the master 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It can help fix the merge conflicts by comparing the file changes made by different persons or the person himself.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We would then collaborate by sharing the files manually to each other. It would be easier to collaborate using platforms like Git or GitHub as they have flexibility in changing the files which the other person can review and then they together can commit a merge. It would be harder to share the files amongst our contributers. As a result if they make changes to the files then we have to manually get the file back from him and then review and then approve for merging or any further process. 
