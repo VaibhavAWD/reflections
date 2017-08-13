@@ -15,3 +15,11 @@ It can help fix the merge conflicts by comparing the file changes made by differ
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We would then collaborate by sharing the files manually to each other. It would be easier to collaborate using platforms like Git or GitHub as they have flexibility in changing the files which the other person can review and then they together can commit a merge. It would be harder to share the files amongst our contributers. As a result if they make changes to the files then we have to manually get the file back from him and then review and then approve for merging or any further process. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If we are confident enough about making changes directly into the official version of the
+project i.e master branch then we can do it by commiting the changes directly into the
+master branch but in case we want to try out the changes before actually making them
+available into the official version then we should create a separate branch and try making
+changes over there and test whether they work or not and then make final decision to merge
+it into the master branch. This way the official version remains unbroken.
